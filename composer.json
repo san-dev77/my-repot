@@ -1,0 +1,16 @@
+{
+    "name": "kamis/test",
+    "autoload": {
+        "psr-4": {
+            "Kamis\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed kamiss"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
